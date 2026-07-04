@@ -1,5 +1,3 @@
-# Netflix-Data-Analysis
-Netflix kataloqunun pandas ilə EDA analizi — data təmizləmə, çoxdəyişənli vizuallaşdırma, zaman trendi və statistik testlər (chi-square, Cramér's V)
 # Netflix Titles — Pandas ilə Data Analizi
 
 Netflix-in kataloqundakı film və serialları `pandas`, `seaborn` və `scipy` istifadə edərək tədqiq edən analiz notebook-u. Data təmizləmə, çoxdəyişənli vizuallaşdırma, zaman trendi və statistik testlər (korrelyasiya, chi-square, effect size) əhatə olunur.
@@ -30,18 +28,20 @@ Layihə [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/ne
 
 Notebook-u işə salmaq üçün:
 1. Dataset-i yuxarıdakı linkdən yükləyin (`netflix_titles.csv`)
-2. Faylı bu repo-nun kök qovluğuna qoyun (data faylı `.gitignore`-dadır, repo-ya daxil deyil)
+2. Faylı bu repo-nun kök qovluğuna qoyun
 
 ## Quraşdırma və işə salma
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements_Netflix.txt
 jupyter notebook Netflix_Analysis.ipynb
 ```
 
 ## Struktur
 ```
 .
-├── Netflix_Analysis.ipynb   # Əsas analiz notebook-u
-├── requirements.txt         # Python asılılıqları
+├── Netflix_Analysis.ipynb    # Əsas analiz notebook-u
+├── Requirements_Netflix.txt  # Python asılılıqları
 └── README.md
 ```
+
+
