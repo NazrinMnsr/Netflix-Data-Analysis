@@ -25,8 +25,6 @@ Netflix-in kataloqundakı film və serialları `pandas`, `seaborn` və `scipy` i
 - `type` və `rating` arasında chi-square asılılıq testi
 - Cramér's V ilə əlaqənin gücünün (effect size) ölçülməsi
 
-**Yekun xülasə**: bütün tapıntıları, məhdudiyyətləri və növbəti addımları ümumiləşdirən bölmə
-
 ## Data
 Layihə [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) (Kaggle) dataset-indən istifadə edir.
 
