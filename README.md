@@ -38,10 +38,11 @@ jupyter notebook Netflix_Analysis.ipynb
 
 ## Struktur
 ```
-.
-├── Netflix_Analysis.ipynb    # Əsas analiz notebook-u
-├── Requirements_Netflix.txt  # Python asılılıqları
-└── README.md
+├── Netflix_Analysis.ipynb    ← əsas, interaktiv
+├── Netflix_Analysis.html     ← statik baxış üçün
+├── Requirements_Netflix.txt  ← Python asılılıqları
+├── README.md
+└── .gitignore (istəyə görə)
 ```
 
 
