@@ -42,7 +42,6 @@ jupyter notebook Netflix_Analysis.ipynb
 ├── Netflix_Analysis.html     ← statik baxış üçün
 ├── Requirements_Netflix.txt  ← Python asılılıqları
 ├── README.md
-└── .gitignore (istəyə görə)
 ```
 
 
